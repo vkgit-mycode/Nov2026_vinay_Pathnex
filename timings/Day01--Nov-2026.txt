@@ -1,0 +1,5 @@
+Attended morning  DevOps training session and learned about the DevOps syllabus.
+Understood the key tools and technologies required to learn DevOps.
+Created an AWS Cloud account for hands-on practice.
+Created a Git account and explored.
+Learn about ip address.
