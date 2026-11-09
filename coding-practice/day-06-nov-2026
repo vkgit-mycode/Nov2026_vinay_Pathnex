@@ -1,0 +1,7 @@
+- name: My First Playbook
+  hosts: all
+
+  tasks:
+    - name: Display a message
+      debug:
+        msg: "Hello! I am learning Ansible.

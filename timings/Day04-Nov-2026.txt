@@ -1,0 +1,5 @@
+Day 4 covered Linux permissions, task automation with cronjob, and complete the Linux Q&A.
+After some time, I started the revision and completed the question answers 
+Then I wrote the code and pushed it to GitHub. Currently, I am taking the help of AI to understand the YAML and Ansible code. 
+I joined the evening class 
+Then I learned a few new English words by watching a podcast 

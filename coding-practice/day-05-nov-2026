@@ -1,0 +1,8 @@
+app_name: nginx
+app_version: latest
+app_port: 80
+
+server_name: webserver
+server_os: RHEL
+
+environment: development

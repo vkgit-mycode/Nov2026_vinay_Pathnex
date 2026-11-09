@@ -1,0 +1,9 @@
+Attended the morning Linux class.
+Understood the basic concepts and fundamentals of Linux.
+Learned and practised some basic Linux commands.
+Created an AWS Cloud account for hands-on practical learning.
+Created a Git account and explored its basic features.
+push the code on the github 
+took the evening class session
+
+
