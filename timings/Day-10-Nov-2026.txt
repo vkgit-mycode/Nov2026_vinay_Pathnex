@@ -1,0 +1,6 @@
+I joined the morning session.it was about Docker
+After some time, I started the revision and complete it and install the docker to execute all the comand
+Then I wrote the code and pushed it to GitHub. Currently, I am taking the help of AI to understand the YAML and Ansible code. 
+joind the evening session and noted dowm all the point for the improvment.
+i watch a podcast to improve my english 
+

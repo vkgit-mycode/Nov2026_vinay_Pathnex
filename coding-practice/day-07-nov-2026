@@ -1,7 +1,0 @@
-- name: Check Web Servers
-  hosts: webservers
-
-  tasks:
-    - name: Display message
-      debug:
-        msg: "Ansible is managing my webserver."

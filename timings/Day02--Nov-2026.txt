@@ -1,3 +1,4 @@
+
 Attended the morning Linux class.
 Understood the basic concepts and fundamentals of Linux.
 Learned and practised some basic Linux commands.
